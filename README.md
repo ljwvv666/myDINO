@@ -1,2 +1,2 @@
-# myDINO
-基于xview数据集和DINO实现遥感影响检测
+# myYOLOv11
+基于Tomato-Leaf-Disease-detection数据集和YOLO11实现番茄病检测
